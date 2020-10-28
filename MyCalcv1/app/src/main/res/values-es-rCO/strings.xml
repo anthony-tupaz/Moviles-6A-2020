@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Calculadora v1</string>
+    <string name="lvl_n1">Numero 1</string>
+    <string name="lvl_n2">Numero 2</string>
+    <string name="btn_add">Sumar</string>
+    <string name="hnt_n1">235</string>
+    <string name="hnt_n2">235</string>
+</resources>

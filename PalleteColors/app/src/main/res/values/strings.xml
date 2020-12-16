@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Palette Colors</string>
+    <string name="img_content_desc">Icon App</string>
+
+    <string name="lbl_red">Red</string>
+    <string name="lbl_green">Green</string>
+    <string name="lbl_blue">Blue</string>
+    <string name="lbl_alpha">Alpha</string>
+
+    <string name="itetransparent">Transparent</string>
+    <string name="iteSemitransparent">SemiTransparent</string>
+    <string name="iteOpaque">Opaque</string>
+    <string name="iteBlack">Black</string>
+    <string name="iteWhite">White</string>
+    <string name="iteRed">Red</string>
+    <string name="iteGreen">Green</string>
+    <string name="iteBlue">Blue</string>
+    <string name="iteCyan">Cyan</string>
+    <string name="iteMagenta">Magenta</string>
+    <string name="iteYellow">Yellow</string>
+    <string name="iteBrown">Brown</string>
+
+    <string name="title_aboutOf">About of</string>
+    <string name="title_help">Help</string>
+
+    <string name="bg_image">Background image</string>
+
+    <!-- Titles Menus -->
+    <string name="Title_ite_exit">Exit</string>
+    <string name="Title_Search">Search</string>
+    <string name="Title_Reset">Reset</string>
+</resources>
